@@ -61,28 +61,28 @@ export default {
     ],
     goods: [
       {
-        name: 'HUAWEI P60',
-        text: "【新品】HUAWEI P60 256GB 洛可可白 鸿蒙手机",
-        address: "深圳",
+        name: 'c',
+        text: "rolife若来超级世界超级商店奶茶店积木益智拼装玩具diy小屋儿童",
+        address: "江苏",
         type: '包邮',
-        price: "4988",
-        onlinePrice: "4888",
-        cover: './static/images/HUAWEI P60.jpg',
-        poster: './static/images/slide_huawei.jpg',
+        price: "199",
+        onlinePrice: "184",
+        cover: './static/images/c01.png',
+        poster: './static/images/c.webp',
         color: "#ffffff",
         images: [
-          './static/images/HUAWEI P60.jpg',
-          './static/images/huawei2.png',
-          './static/images/huawei3.png',
-          './static/images/huawei4.png',
-          './static/images/huawei5.png'
+          './static/images/c01.png',
+          './static/images/c02.png',
+          './static/images/c03.png',
+          './static/images/c04.png',
+          './static/images/c05.png'
         ],
         thumbnails: [
-          './static/images/【新品】HUAWEI P60 256GB 洛可可白 鸿蒙手机.jpg',
-          './static/images/【新品】HUAWEI P60 256GB 洛可可白 鸿蒙手机1.png',
-          './static/images/【新品】HUAWEI P60 256GB 洛可可白 鸿蒙手机_9a860d8e.png',
-          './static/images/【新品】HUAWEI P60 256GB 洛可可白 鸿蒙手机_75e6f9dd.png',
-          './static/images/【新品】HUAWEI P60 256GB 洛可可白 鸿蒙手机_b97a6c67.png'
+          './static/images/c01(1).png',
+          './static/images/c02(1).png',
+          './static/images/c03(1).png',
+          './static/images/c04(1).png',
+          './static/images/c05(1).png'
         ]
       },
       {
@@ -190,28 +190,28 @@ export default {
         ]
       },
       {
-        name: 'x',
-        text: 'Hapenss喜奔跑步运动鞋垫减震高弹透气男足弓支撑女吸汗防臭篮球',
+        name: 'w',
+        text: '网红GOFU-G50奶白色恒温沐浴淋浴花洒套装钢琴按键数显全铜枪灰色',
         address: '广东',
         type: '包邮',
-        price: '199',
-        onlinePrice: '179',
-        cover: './static/images/x01.png',
-        poster: './static/images/x.webp',
+        price: '1893',
+        onlinePrice: '1498',
+        cover: './static/images/w01.png',
+        poster: './static/images/w.webp',
         color: '#e8e8e8',
         images: [
-          './static/images/x01.png',
-          './static/images/x02.png',
-          './static/images/x03.png',
-          './static/images/x04.png',
-          './static/images/x05.png'
+          './static/images/w01.png',
+          './static/images/w02.png',
+          './static/images/w03.png',
+          './static/images/w04.png',
+          './static/images/w05.png'
         ],
         thumbnails: [
-          './static/images/x01(1).png',
-          './static/images/x02(1).png',
-          './static/images/x03(1).png',
-          './static/images/x04(1).png',
-          './static/images/x05(1).png'
+          './static/images/w01(1).png',
+          './static/images/w02(1).png',
+          './static/images/w03(1).png',
+          './static/images/w04(1).png',
+          './static/images/w05(1).png'
         ]
       },
       {
