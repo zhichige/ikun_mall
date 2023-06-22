@@ -38,7 +38,7 @@
       </tr>
       </tbody>
     </table>
-    <div class="placeholder" v-else>收藏夹里还没有东西哦！快去添加吧~~</div>
+    <div class="placeholder" v-else>亲~~~///(^v^)\\\~~~，收藏夹空空如也！快去添加吧~~</div>
   </div>
 </template>
 

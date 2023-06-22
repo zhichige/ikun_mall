@@ -86,157 +86,157 @@ export default {
         ]
       },
       {
-        name:'iphone12',
-        text:"Apple iPhone 12 (A2404) 128GB 黑色 支持移动联通电信5G 双卡双待手机",
-        address:"北京",
+        name:'weikuxiuxianku',
+        text:"晓说 怒吼推荐！显瘦到尖叫 爆款返场百搭特制面料超薄卫裤休闲裤",
+        address:"杭州",
         type:"包邮",
-        price:"6299",
-        onlinePrice:"6299",
-        cover:'./static/images/iphone01.jpg',
-        poster:'./static/images/slide_iphone.jpg',
+        price:"180",
+        onlinePrice:"139",
+        cover:'./static/images/weiyixiuxianku01.png',
+        poster:'./static/images/jw.webp',
         color:"#f9f6f1",
         images:[
-          './static/images/iphone01.jpg',
-          './static/images/iphone02.jpg',
-          './static/images/iphone03.jpg',
-          './static/images/iphone04.jpg',
-          './static/images/iphone05.jpg'
+          './static/images/weiyixiuxianku01.png',
+          './static/images/weiyixiuxianku02.png',
+          './static/images/weiyixiuxianku03.png',
+          './static/images/weiyixiuxianku04.png',
+          './static/images/weiyixiuxianku05.png'
         ],
         thumbnails:[
-          './static/images/iphone01_sm.jpg',
-          './static/images/iphone02_sm.jpg',
-          './static/images/iphone03_sm.jpg',
-          './static/images/iphone04_sm.jpg',
-          './static/images/iphone05_sm.jpg'
+          './static/images/weiyixiuxianku01_sm.png',
+          './static/images/weiyixiuxianku02_sm.png',
+          './static/images/weiyixiuxianku03_sm.png',
+          './static/images/weiyixiuxianku04_sm.png',
+          './static/images/weiyixiuxianku05_sm.png'
         ]
       },
       {
-        name:'RTX3080',
-        text:'MSI/微星RTX 3080万图师魔龙吃鸡电竞游戏台式电脑显卡支持8K显示',
+        name:'luosifen',
+        text:'人类快乐招牌螺蛳粉柳州特产解馋炸蛋螺狮粉酸辣檀健次螺丝粉米粉',
         address:'北京',
         type:'包邮',
-        price:'16999.0',
-        onlinePrice:'8499',
-        cover:'./static/images/rtx3080_01.jpg',
-        poster:'./static/images/rtx3080_poster.png',
+        price:'60',
+        onlinePrice:'45',
+        cover:'./static/images/luosifen01.png',
+        poster:'./static/images/renleikuaile.webp',
         color:'#000',
         images:[
-          './static/images/rtx3080_01.jpg',
-          './static/images/rtx3080_02.jpg',
-          './static/images/rtx3080_03.jpg',
-          './static/images/rtx3080_04.jpg',
-          './static/images/rtx3080_05.jpg'
+          './static/images/luosifen01.png',
+          './static/images/luosifen02.png',
+          './static/images/luosifen03.png',
+          './static/images/luosifen04.png',
+          './static/images/luosifen05.png'
 
         ],
         thumbnails: [
-          './static/images/rtx3080_01_sm.jpg',
-          './static/images/rtx3080_02_sm.jpg',
-          './static/images/rtx3080_03_sm.jpg',
-          './static/images/rtx3080_04_sm.jpg',
-          './static/images/rtx3080_05_sm.jpg'
+          './static/images/luosifen01(1).png',
+          './static/images/luosifen02(1).png',
+          './static/images/luosifen03(1).png',
+          './static/images/luosifen04(1).png',
+          './static/images/luosifen05(1).png'
 
         ]
       },
       {
-        name: 'nuotai',
-        text: '诺泰暖宫护腰艾灸加热女生必备神器',
-        address: '山东泰安',
+        name: 'yuyue',
+        text: '鱼跃制氧机医用级5L浓度90%吸氧器家用吸氧机老人孕妇氧气机家庭',
+        address: '江苏镇江',
         type: '包邮',
-        price: '536.00',
-        onlinePrice: '208.00',
-        cover: './static/images/nuotai01.jpg',
+        price: '3690',
+        onlinePrice: '3390',
+        cover: './static/images/yl01.png',
         
-        poster: './static/images/slide1.png',
+        poster: './static/images/yl.webp',
         color: '#e8e8e8',
 
         images: [
-          './static/images/nuotai01.jpg',
-          './static/images/nuotai02.jpg',
-          './static/images/nuotai03.jpg',
-          './static/images/nuotai04.jpg',
-          './static/images/nuotai05.jpg'
+          './static/images/yl01.png',
+          './static/images/yl02.png',
+          './static/images/yl03.png',
+          './static/images/yl04.png',
+          './static/images/yl05.png'
         ],
         thumbnails: [
-          './static/images/nuotai01_sm.jpg',
-          './static/images/nuotai02_sm.jpg',
-          './static/images/nuotai03_sm.jpg',
-          './static/images/nuotai04_sm.jpg',
-          './static/images/nuotai05_sm.jpg'
+          './static/images/yl01(1).png',
+          './static/images/yl02(1).png',
+          './static/images/yl03(1).png',
+          './static/images/yl04(1).png',
+          './static/images/yl05(1).png'
         ]
       },
       {
-        name: 'qixi',
-        text: '七喜柠檬味碳酸饮料整箱330ml*24促销装',
-        address: '上海',
-        type: '满88(20kg内)包邮',
-        price: '48.90',
-        onlinePrice: '43.90',
-        cover: './static/images/qixi01.jpg',
-        poster: './static/images/slide02.png',
+        name: 'z',
+        text: '性价比推荐◆亿田B15储物柜集成灶一体灶 家用官方旗舰十大名品牌',
+        address: '浙江绍兴',
+        type: '包邮',
+        price: '6299',
+        onlinePrice: '5099',
+        cover: './static/images/z01.png',
+        poster: './static/images/z.webp',
         color: '#17b14f',
         images: [
-          './static/images/qixi01.jpg',
-          './static/images/qixi02.jpg',
-          './static/images/qixi03.jpg',
-          './static/images/qixi04.jpg',
-          './static/images/qixi05.jpg'
+          './static/images/z01.png',
+          './static/images/z02.png',
+          './static/images/z03.png',
+          './static/images/z04.png',
+          './static/images/z05.png'
         ],
         thumbnails: [
-          './static/images/qixi01_sm.jpg',
-          './static/images/qixi02_sm.jpg',
-          './static/images/qixi03_sm.jpg',
-          './static/images/qixi04_sm.jpg',
-          './static/images/qixi05_sm.jpg'
+          './static/images/z01(1).png',
+          './static/images/z02(1).png',
+          './static/images/z03(1).png',
+          './static/images/z04(1).png',
+          './static/images/z05(1).png'
         ]
       },
       {
-        name: 'bama',
-        text: '八马茶业 铁观音茶叶浓香型赛珍珠1000g',
-        address: '广东深圳',
+        name: 'x',
+        text: 'Hapenss喜奔跑步运动鞋垫减震高弹透气男足弓支撑女吸汗防臭篮球',
+        address: '广东',
         type: '包邮',
-        price: '800.00',
-        onlinePrice: '600.00',
-        cover: './static/images/bama01.jpg',
-        poster: './static/images/slide03.png',
+        price: '199',
+        onlinePrice: '179',
+        cover: './static/images/x01.png',
+        poster: './static/images/x.webp',
         color: '#e8e8e8',
         images: [
-          './static/images/bama01.jpg',
-          './static/images/bama02.jpg',
-          './static/images/bama03.jpg',
-          './static/images/bama04.jpg',
-          './static/images/bama05.jpg'
+          './static/images/x01.png',
+          './static/images/x02.png',
+          './static/images/x03.png',
+          './static/images/x04.png',
+          './static/images/x05.png'
         ],
         thumbnails: [
-          './static/images/bama01_sm.jpg',
-          './static/images/bama02_sm.jpg',
-          './static/images/bama03_sm.jpg',
-          './static/images/bama04_sm.jpg',
-          './static/images/bama05_sm.jpg'
+          './static/images/x01(1).png',
+          './static/images/x02(1).png',
+          './static/images/x03(1).png',
+          './static/images/x04(1).png',
+          './static/images/x05(1).png'
         ]
       },
       {
-        name: 'Lee',
-        text: 'Lee男装 2018春夏X-LINE白色短袖T恤 秒变男神',
+        name: 'f',
+        text: '官方正品 纪梵希明星四宫格散粉四色定妆粉蜜粉透亮光彩',
         address: '上海',
         type: '包邮',
-        price: '350.00',
-        onlinePrice: '239.00',
-        cover: './static/images/Lee01.jpg',
-        poster: './static/images/slide04.png',
+        price: '590',
+        onlinePrice: '550',
+        cover: './static/images/f01.png',
+        poster: './static/images/f.webp',
         color: '#96520c',
         images: [
-          './static/images/Lee01.jpg',
-          './static/images/Lee02.jpg',
-          './static/images/Lee03.jpg',
-          './static/images/Lee04.jpg',
-          './static/images/Lee05.jpg'
+          './static/images/f01.png',
+          './static/images/f02.png',
+          './static/images/f03.png',
+          './static/images/f04.png',
+          './static/images/f05.png'
         ],
         thumbnails: [
-          './static/images/Lee01_sm.jpg',
-          './static/images/Lee02_sm.jpg',
-          './static/images/Lee03_sm.jpg',
-          './static/images/Lee04_sm.jpg',
-          './static/images/Lee05_sm.jpg'
+          './static/images/f01(1).png',
+          './static/images/f02(1).png',
+          './static/images/f03(1).png',
+          './static/images/f04(1).png',
+          './static/images/f05(1).png'
         ]
       }
     ],

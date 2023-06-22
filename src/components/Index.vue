@@ -17,7 +17,7 @@
       </div>
     </div>
     <div class="rec-banner">
-      <h1 class="banner-title">爆款推荐，Oh My God,买他！</h1>
+      <h1 class="banner-title">Hot！爆款推荐，买买买！</h1>
       <ul class="rec-list">
         <li
           class="rec-card"

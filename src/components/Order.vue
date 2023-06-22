@@ -34,7 +34,7 @@
       </tr>
       </tbody>
     </table>
-    <div class="placeholder" v-else>当前并无订单！快去下单吧~~</div>
+    <div class="placeholder" v-else>亲~~~///(^v^)\\\~~~，订单空空如也，快去下单吧~~</div>
   </div>
 </template>
 

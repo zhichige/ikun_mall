@@ -1,6 +1,6 @@
 <template>
     <div class="foot">
-        <h2 class='title'>鸽鸽商城</h2>
+        <h1 class='title'>鸽鸽商城</h1>
 		<p>Copyright© 2018-2023 ikun.com 版权所有</p>
         <p>地址：四川省成都市大面街道成龙大道1819号四川师范大学</p>
 		<p>邮箱：<a href="#">ikun@163.com</a></p>

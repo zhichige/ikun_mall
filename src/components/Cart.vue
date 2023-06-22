@@ -46,7 +46,7 @@
       </tr>
       </tbody>
     </table>
-    <div class="placeholder" v-else>购物车里还没有东西哦！快去添加吧~~</div>
+    <div class="placeholder" v-else>亲~~~///(^v^)\\\~~~，购物车里空空如也！快去添加吧~~</div>
     <div class="banner-pay">
       <span>￥&nbsp;{{ getTotalPrice() }}</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="btn-pay" @click="payAll">结&nbsp;&nbsp;算</span>
     </div>

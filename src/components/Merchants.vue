@@ -23,11 +23,11 @@
 			return{
 				list1: [{
 						person: 'A',
-						say: '包邮吗？'
+						say: '掌柜，在吗？'
 					},
 					{
 						person: 'B',
-						say: '亲，全国包邮哦！'
+						say: '亲，在哦！'
 					},
 				],
 				sel1: 0,
